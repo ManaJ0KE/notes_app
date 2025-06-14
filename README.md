@@ -26,6 +26,8 @@
 
 ```bash
 pip install PyQt6
+```
 
 ```bash
 python notes_app.py
+```
